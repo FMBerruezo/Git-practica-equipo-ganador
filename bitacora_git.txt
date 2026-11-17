@@ -22,7 +22,7 @@ Ejemplo de un buen mensaje de commit: Segunda etapa rellenada
 ETAPA 3. TERCER COMMIT — ALUMNO/A B
 (Completar SOLO después de ejecutar git pull)
 --------------------------------------------------
-Nombre del alumno/a B: PENDIENTE
+Nombre del alumno/a B: MESA BIEN TRABAJADO
 Diferencia entre git clone y git pull: PENDIENTE
 ¿Qué hacen git add, git commit y git push?: PENDIENTE
 
